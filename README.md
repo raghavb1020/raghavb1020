@@ -6,11 +6,8 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h1 align='center'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Darshan Gaikwad;I'm Front-End Web Developer!+%F0%9F%8E%86" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&lines=%E2%9C%A8+Hello, I'm Raghav Bhandari;I'm Dot Net Developer!+%F0%9F%8E%86" alt="Typing SVG" />
 </h1>
-<!-- <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hey👋+I'm+Darshan;Front+End+Web+Developer+🚀;Let's+connect+on+Linkedin+🤝;Thanks+for+visiting!+✌️">
-</h1> -->
  
 <div align="center"> <img src="https://komarev.com/ghpvc/?username=raghavb1020&style=for-the-badge&color=f53b57&labelColor=d752ff"
 alt="raghavb1020" width="180" /> 
@@ -18,13 +15,6 @@ alt="raghavb1020" width="180" />
 
 <div href="https://www.github.com/raghavb1020" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/raghavb1020?logo=github&style=for-the-badge&color=039c55&labelColor=1c1917" /></div>
-
-[![portfolio](https://img.shields.io/badge/my_portfolio-519?style=for-the-badge&logo=ko-fi&logoColor=magenta)](https://darshangaikwad-portfolio.netlify.app/) <br>
-
-<!-- My Portfolio -->
-
-<!-- Profile banner -->
-<!-- [![MasterHead](https://media.licdn.com/dms/image/D4D16AQFO3t4Epytu7g/profile-displaybackgroundimage-shrink_350_1400/0/1693735537369?e=1699488000&v=beta&t=nteJOTSYCaNHdcMhuGnnjuxbPn1Gk0lYUWNKqK8a-FM)](https://darshangaikwad-portfolio.netlify.app/) -->
 
 <!-- About Me -->
 <div align="left">
@@ -36,7 +26,6 @@ src="https://img.shields.io/github/followers/raghavb1020?logo=github&style=for-t
 👨‍💻 All of my projects are available at `https://github.com/raghavb1020`<br><br>
 📫 How to reach me `raghavb1020@gmail.com`<br><br>
 ⚡ Fun fact `Chai tastes way better than Coffee`<br>
-
 </div>
 
 <!-- Social profile links -->
@@ -49,7 +38,6 @@ src="https://img.shields.io/github/followers/raghavb1020?logo=github&style=for-t
 <div align="center">
 <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=cs,html,css,javascript,bootstrap,visualstudio,vscode,netlify,git,github,dotnet,mysql,&perline=6" />
-
 </div>
 
 <!-- GitHub Stats -->
@@ -59,4 +47,3 @@ src="https://img.shields.io/github/followers/raghavb1020?logo=github&style=for-t
   <img src="https://github-readme-stats.vercel.app/api?username=raghavb1020&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raghavb1020&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=50&theme=github_dark&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
